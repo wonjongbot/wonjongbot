@@ -10,6 +10,8 @@
   
 
 - 🌱 I’m currently learning low-level C/C++ and FPGA (verilog)  
+
+- 🦭 Check out my [website](https://peterwlee.web.illinois.edu/)
   
 
 <br/>  
