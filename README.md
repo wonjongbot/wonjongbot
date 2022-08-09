@@ -8,7 +8,7 @@
 
 - 🔭 I finished working on [Chip-8 Interpreter using C++](https://github.com/wonjongbot/CHIP-8)
 
-- 🦖 I am working on [FPGAcademy's digital logic course](https://github.com/wonjongbot/FPGA-Academy) to build my own computer on an FPGA
+- 🦖 I am working on [FPGAcademy's Digital Logic course](https://github.com/wonjongbot/FPGA-Academy) to build my own computer on an FPGA
   
 - 🌱 I’m currently learning low-level C/C++ and FPGA (verilog)  
 
