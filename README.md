@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://peterwlee.web.illinois.edu/assets/images/favicon2.gif" align="center" style="width: 100%" />
 </div>  
-<div align="center">Me sleeping on the floor of [ECEB](https://ece.illinois.edu/about/buildings/ecebuilding) during finals</div>
+<div align="center">Me sleeping on the floor of <a href=https://ece.illinois.edu/about/buildings/ecebuilding>ECEB</a> during finals</div>
 
 ### <div align="center">My name is Peter Lee (Korean: 이원종), a rising second-year computer engineering student at the University of Illinois Urbana-Champaign.</div>  
   
