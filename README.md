@@ -6,9 +6,10 @@
 ### <div align="center">My name is Peter Lee (Korean: 이원종), a rising second-year computer engineering student at the University of Illinois Urbana-Champaign.</div>  
   
 
-- 🔭 I’m currently working on [Chip-8 Interpreter using C++](https://github.com/wonjongbot/CHIP-8)  
-  
+- 🔭 I finished working on [Chip-8 Interpreter using C++](https://github.com/wonjongbot/CHIP-8)
 
+- 🦖 I am working on FPGAcademy's digital logic course to build my own computer on an FPGA
+  
 - 🌱 I’m currently learning low-level C/C++ and FPGA (verilog)  
 
 - 🦭 Check out my [website](https://peterwlee.web.illinois.edu/)
