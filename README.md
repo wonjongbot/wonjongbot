@@ -79,7 +79,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wonjongbot&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wonjongbot&show_icons=true&count_private=true&hide_border=true" align="center" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjongbot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div> 
   
 
 <br/>  
@@ -88,9 +89,7 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21s4vtimmekxrfijauom6tuky&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /></div>  
 
-<br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjongbot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
   
