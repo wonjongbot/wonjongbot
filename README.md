@@ -8,7 +8,7 @@
 ## <div align = "center">My primary interest is in Computer Artchitecture, RTL design, and Digital Systems Design!</div>
   
 
-- 🔭 I am working on [FPGAcademy's Digital Logic course](https://github.com/wonjongbot/FPGA-Academy) to build my own computer on an FPGA
+- 🔭 I am working on hardware level implementation of Doom 3D engine using an FPGA and systemverilog. Wish me luck!
 
 - 🦖 I finished working on [Chip-8 Interpreter using C++](https://github.com/wonjongbot/CHIP-8)
 
@@ -16,7 +16,7 @@
 
 - 🦭 Check out my [website](https://peterwlee.web.illinois.edu/)
 
-- ⌨️ My primary language is C/C++, Python, and SystemVerilog!
+- ⌨️ My primary language is **C/C++, Python, and SystemVerilog**!
   
 
 <br/>  
@@ -33,30 +33,12 @@
 <a href="https://linkedin.com/in/wonjongbot" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wonjongbot&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-
-<br/>  
-
-## Some tunes
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21s4vtimmekxrfijauom6tuky&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-
-
 <br/>
+... or shoot me a mail 📮
+  <br/>
+ <a href="mailto:wonjong3@illinois.edu" target="_blank" style="font-size:20px">wonjong3@illinois.edu</a>  
+<br/>
+  <br/>
   
-
-<br/>  
-
-
-<br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
